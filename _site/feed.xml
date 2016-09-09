@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sanshray Organization</title>
+    <title>This is Solid State</title>
     <description>Another free + fully responsive site template by HTML5 UP
 </description>
     <link>https://sanshray.github.io/sanshray.org/</link>
     <atom:link href="https://sanshray.github.io/sanshray.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Sep 2016 23:50:29 +0530</pubDate>
-    <lastBuildDate>Fri, 09 Sep 2016 23:50:29 +0530</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2016 00:15:31 +0530</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2016 00:15:31 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
