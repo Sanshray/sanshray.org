@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tempus adipiscing
+title: Project2
 image: images/pic02.jpg
 style: wrapper alt spotlight style2
 id: two

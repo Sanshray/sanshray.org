@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Magna arcu feugiat
+title: Project1
 image: images/pic01.jpg
 style: wrapper spotlight style1
 id: one
