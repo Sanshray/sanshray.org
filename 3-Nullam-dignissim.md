@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nullam dignissim
+title: Project3
 image: images/pic03.jpg
 style: wrapper spotlight style3
 id: three
