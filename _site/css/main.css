@@ -3053,7 +3053,6 @@
 
 			#banner .logo .icon {
 				border-radius: 100%;
-				border: solid 2px rgba(255, 255, 255, 0.125);
 				cursor: default;
 				display: inline-block;
 				font-size: 2em;
@@ -3701,3 +3700,9 @@
 		}
 
 	}
+.website-logo{
+  background: url('./images/logo.png');
+  background-repeat: no-repeat;
+  width: 9% !important;
+  background-size: cover;
+}	
